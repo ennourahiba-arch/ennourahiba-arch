@@ -115,7 +115,7 @@ Pendulum problem
 
 | Mistake | Why It Happens | Fix |
 |---|---|---|
-| Mixing up distance and displacement | ignoring direction | define a positive axis |
+| Mixing up distance and displacement | Ignoring direction | Define a positive axis |
 | Wrong sign for gravity | inconsistent convention | choose sign once and keep it |
 | Using $\mu_s N$ automatically | static friction is adjustable | compare applied force with maximum static friction |
 | Using energy through an inelastic collision | energy is not conserved there | use momentum during impact |
