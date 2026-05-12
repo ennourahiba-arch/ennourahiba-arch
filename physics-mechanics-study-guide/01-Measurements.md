@@ -24,6 +24,8 @@
 | Amount of substance | $n$ | mole | mol |
 | Luminous intensity | $I_v$ | candela | cd |
 
+To avoid notation confusion, keep $I$ for electric current and read $I_v$ specifically as **luminous intensity**.
+
 ### Common Derived Units in Mechanics
 
 | Quantity | Formula | SI Unit |

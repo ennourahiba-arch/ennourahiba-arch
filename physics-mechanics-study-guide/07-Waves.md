@@ -60,7 +60,9 @@ $$L = \frac{n\lambda}{2}, \qquad f_n = \frac{nv}{2L}$$
 
 ### On a String
 
-$$v = \sqrt{\frac{T}{\mu}}$$
+$$v = \sqrt{\frac{F_T}{\mu}}$$
+
+Here $F_T$ is the string tension, while $T$ elsewhere in this chapter still denotes the wave period.
 
 ### Sound
 Depends on the medium and temperature. In air near room temperature, use about $343\,\text{m/s}$ unless told otherwise.
